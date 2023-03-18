@@ -1,5 +1,5 @@
 var title = "WindowsMiNi导航页";
-var user = "ZYB14";
+var user = "WindowsMiNi";
 var icp = "";
 var pins = [
     {
